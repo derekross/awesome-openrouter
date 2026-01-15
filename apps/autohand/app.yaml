@@ -1,0 +1,10 @@
+name: "Autohand Code CLI"
+description: "The world fastest open code cli agent"
+url: "https://www.autohand.ai/cli"
+docs: "https://autohand.ai/docs/integrations/openrouter"
+tags:
+  - coding
+  - chat
+  - research
+open_source: "https://github.com/autohandai/code-cli"
+date_added: "2026-01-15"
