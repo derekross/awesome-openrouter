@@ -42,6 +42,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Ottex](#ottex)
 - [Quests](#quests)
 - [Roo Code](#roo-code)
+- [Shakespeare](#shakespeare)
 - [SillyTavern](#sillytavern)
 - [Stirrup](#stirrup)
 - [StirrupJS](#stirrupjs)
@@ -263,6 +264,18 @@ An AI-powered autonomous coding agent that lives in your editor.
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/RooCodeInc/Roo-Code)
 
 [Documentation](https://docs.roocode.com/providers/openrouter)
+
+---
+
+### [Shakespeare](https://shakespeare.diy)
+
+<img src="./apps/shakespeare/logo.png" alt="Shakespeare logo" width="64" height="64">
+
+An open-source browser-based AI application builder that works entirely in-browser without a backend. Supports OpenRouter, OpenCode, OpenAI, Anthropic, and more.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://gitlab.com/soapbox-pub/shakespeare)
+
+[Documentation](https://soapbox.pub/shakespeare-resources/)
 
 ---
 

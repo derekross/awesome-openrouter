@@ -228,6 +228,18 @@
     "dateAdded": "2026-01-13"
   },
   {
+    "slug": "shakespeare",
+    "name": "Shakespeare",
+    "description": "An open-source browser-based AI application builder that works entirely in-browser without a backend. Supports OpenRouter, OpenCode, OpenAI, Anthropic, and more.",
+    "url": "https://shakespeare.diy",
+    "docs": "https://soapbox.pub/shakespeare-resources/",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://gitlab.com/soapbox-pub/shakespeare",
+    "dateAdded": "2026-01-15"
+  },
+  {
     "slug": "sillytavern",
     "name": "SillyTavern",
     "description": "A local-first LLM frontend for power users, supporting chat, character cards, and multiple AI providers.",
