@@ -1,0 +1,8 @@
+name: "PostHog"
+description: "Dev tools that help product engineers build successful products."
+url: "https://posthog.com"
+docs: "https://posthog.com/tutorials/openrouter-observability"
+tags:
+  - productivity
+open_source: "https://github.com/PostHog/posthog"
+date_added: "2026-02-04"
