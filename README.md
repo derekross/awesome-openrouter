@@ -37,6 +37,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Cline](#cline)
 - [Cloudflare AI Gateway](#cloudflare-ai-gateway)
 - [fal](#fal)
+- [GitBug](#gitbug)
 - [GitHub Copilot](#github-copilot)
 - [Helicone](#helicone)
 - [Kilo Code](#kilo-code)
@@ -212,6 +213,18 @@ Generative Media Platform.
 `creative` `productivity`
 
 [Documentation](https://fal.ai/models/fal-ai/any-llm)
+
+---
+
+### [GitBug](https://gitbug.ai)
+
+<img src="./apps/gitbug/logo.png" alt="GitBug logo" width="64" height="64">
+
+AI-powered code review for GitHub PRs. Bring your own OpenRouter key to get automated reviews with 100+ models.
+
+`coding`
+
+[Documentation](https://gitbug.ai/docs)
 
 ---
 

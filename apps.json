@@ -167,6 +167,18 @@
     "dateAdded": "2026-02-04"
   },
   {
+    "slug": "gitbug",
+    "name": "GitBug",
+    "description": "AI-powered code review for GitHub PRs. Bring your own OpenRouter key to get automated reviews with 100+ models.",
+    "url": "https://gitbug.ai",
+    "docs": "https://gitbug.ai/docs",
+    "tags": [
+      "coding"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-01-28"
+  },
+  {
     "slug": "github-copilot",
     "name": "GitHub Copilot",
     "description": "Bring your own OpenRouter key to VS Code and GitHub Copilot to use Agent mode with any model.",
