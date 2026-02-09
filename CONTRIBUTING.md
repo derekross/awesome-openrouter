@@ -11,6 +11,7 @@ Your app must:
 - Allow users to bring their own OpenRouter API Key
 - Be publicly accessible (or have a public landing page)
 - Have a logo image
+- **Show evidence of traction or notability** — brand-new projects with no users, no downloads, and no community presence are unlikely to be merged. We look for signals like: GitHub stars, active users, install counts, meaningful community activity, or coverage/mentions in relevant spaces. Exceptions may be made for particularly unique or innovative projects, or those from established developers with a track record.
 
 ## How to Submit
 
